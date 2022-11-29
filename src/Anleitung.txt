@@ -1,0 +1,29 @@
+Minesweeper: Spielregeln und Grundlagen
+
+Ziel des Spiels:
+
+Ziel des Spiels ist es, die leeren Quadrate aufzudecken und dabei diejenigen Quadrate zu meiden, hinter denen sich Minen verstecken. Je schneller Sie die leeren Quadrate aufdecken, desto höher Ihre Punktzahl.
+
+Das Spielfeld:
+
+Sie können bei Minesweeper unter drei Standardspielfeldern mit unterschiedlicher Schwierigkeitsstufe wählen.
+
+* Anfänger: 81 Quadrate, 10 Minen
+* Fortgeschrittene: 256 Quadrate, 40 Minen
+* Profis: 480 Quadrate, 99 Minen
+
+Sie können auch ein benutzerdefiniertes Spielfeld erstellen, indem Sie im Menü Spiel auf Optionen klicken. Minesweeper unterstützt Spielfelder mit bis zu 720 Quadraten und 668 Minen.
+
+Spielweise:
+
+Die Minesweeper-Regeln sind einfach:
+
+* Das Spiel ist beendet, wenn eine Mine aufgedeckt wird.
+* Das Spiel wird fortgesetzt, wenn Sie ein leeres Quadrat aufdecken.
+* Wird beim Aufdecken eines Quadrats eine Zahl angezeigt, steht diese für die Anzahl der Minen, die in den benachbarten acht Quadraten verborgen sind. Anhand dieser Angabe kann abgeleitet werden, unter welchen der angrenzenden Quadrate sich Minen befinden und auf welche Quadrate gefahrlos geklickt werden kann.
+
+Hinweise und Tipps:
+
+* Markieren Sie die Minen. Wenn Sie annehmen, dass sich hinter einem Quadrat eine Mine verbirgt, klicken Sie mit der rechten Maustaste darauf. Dadurch wird das Quadrat markiert. (Wenn Sie sich nicht sicher sind, können Sie erneut mit der rechten Maustaste auf das Quadrat klicken, um es mit einem Fragezeichen zu versehen.)
+* Studieren Sie die Muster. Wenn in drei aufeinander folgenden Quadraten die Zahlen 2-3-2 angezeigt werden, dann befinden neben dieser Reihe wahrscheinlich drei Minen hintereinander. Wenn in einem Quadrat die Zahl 8 angezeigt wird, enthält jedes der angrenzenden Quadrate eine Mine.
+* Stoßen Sie in unerforschtes Gelände vor. Sie wissen nicht, auf welches Quadrat Sie als Nächstes klicken sollen? Stoßen Sie in unerforschtes Gelände vor. Es ist besser, in die Mitte einer Fläche nicht markierter Quadrate zu klicken als in einen Bereich, von dem Sie annehmen, dass sich dort Minen befinden.
